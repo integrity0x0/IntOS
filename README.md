@@ -1,2 +1,2 @@
 # IntOS
-os on nasm
+os on C
